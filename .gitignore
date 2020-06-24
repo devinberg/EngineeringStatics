@@ -1,4 +1,7 @@
-.DS_Store
-/Pretext_Project.xpr
-/output
 /Makefile.paths
+*.lck
+/src/ptx/book.xml
+/src/ptx/book.ptx
+/src/resources/generated
+/meta/staticsOER.xpr
+/output/images
